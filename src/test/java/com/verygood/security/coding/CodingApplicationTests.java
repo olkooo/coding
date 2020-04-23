@@ -3,6 +3,7 @@ package com.verygood.security.coding;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
+
 @SpringBootTest
 class CodingApplicationTests {
 
