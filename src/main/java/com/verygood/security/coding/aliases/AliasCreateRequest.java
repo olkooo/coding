@@ -4,7 +4,5 @@ import lombok.Data;
 
 @Data
 public class AliasCreateRequest {
-
-  private String secret;
-
+    private String secret;
 }

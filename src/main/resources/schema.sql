@@ -1,0 +1,7 @@
+DROP TABLE IF EXISTS aliases;
+
+CREATE TABLE aliases
+(
+    alias VARCHAR(30) PRIMARY KEY,
+    data  VARCHAR(250) NOT NULL
+);
